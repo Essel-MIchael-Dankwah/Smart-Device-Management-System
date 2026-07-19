@@ -1,4 +1,4 @@
-import time # For some Wait time to prevent fast execution
+import time # For some Wait time to slow down execution so we can interact and read info
 
 # Creating Parent Class
 class SmartDevice:
